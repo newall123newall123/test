@@ -1,5 +1,5 @@
-def my_good_fun():
-    print("1")
+def my_good_fun_3():
+    print("3")
 
 
 
